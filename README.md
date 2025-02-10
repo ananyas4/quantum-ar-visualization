@@ -1,5 +1,5 @@
 #  Quantum Wave Equation in AR
-**Research Project | Visualization of Quantum Mechanics in Virtual Reality**
+**Research Project | Visualization of Quantum Mechanics in Augmented Reality**
 
 This project visualizes quantum entanglement and wave equations in VR using Unity, MRTK3, and OpenXR. Developed as part of a research initiative led by [Professor's Name].
 
